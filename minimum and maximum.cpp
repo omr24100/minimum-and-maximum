@@ -2,7 +2,7 @@
 //
 /*
 * File Name: Minimum and Maximum
-GitHub URl:
+GitHub URl: https://github.com/omr24100/minimum-and-maximum.git
 Programmer: Olivia Ruiz
 Date: 2/26/25
 Requirements: Program that ask the user to enter two numbers. The program should use
